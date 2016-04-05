@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Assignment4</string>
+    <string name="mainTitle">EE579 Spring 2016</string>
+    <string name="submitButton">Submit</string>
+    <string name="usernmHint">Enter Your Username</string>
+    <string name="title_activity_page_two">PageTwo</string>
+    <string name="instructorInfo">Instructor Info</string>
+    <string name="taInfo">TA Instructor Info</string>
+    <string name="teamInfo">Team 7 Info</string>
+    <string name="usclogo">usclogo</string>
+    <string name="title_activity_instructor_info">InstructorInfo</string>
+    <string name="title_activity_tainfo">TAInfo</string>
+    <string name="title_activity_team_info">TeamInfo</string>
+    <string name="usclogop3">InstructorPage</string>
+    <string name="InstName">Bhaskar Krishnamachari</string>
+    <string name="InstData">Associate Professor and Ming Hsieh Faculty Fellow Associate \nChair of Electrical Engineering-Systems Ming Hsieh Department of Electrical Engineering Department of Computer Science (Jt. Appointment) USC Viterbi School of Engineering</string>
+    <string name="InstCont">Contact Info</string>
+    <string name="InstData1">Email Address: bkrishna@usc.edu \nPhone: 213-821-2528 \nMailing Address: \nDr. Bhaskar Krishnamachari \nAssociate Professor \n3740 McClintock Avenue, \nEEB 300 Dept. of Electrical Engineering \nUniversity of Southern California, \nLos Angeles, CA 90089.</string>
+    <string name="InstWeb">Website</string>
+    <string name="InstWeb1">http://ceng.usc.edu/~bkrishna/</string>
+    <string name="TaName">Pradipta Ghosh</string>
+    <string name="TaData">PhD Student \nTeaching Assistant (EE579) \nAutonomous Networks Research Group \nUSC Ming Hsieh Department of Electrical Engineering \nUniversity Of Southern California</string>
+    <string name="TaCont">Contact Info</string>
+    <string name="TaData1">Email Address: pradiptg@usc.edu \nMailing Address: \nPradipta Ghosh \nAutonomous Networks Research Group \nRonald Tutor Hall (RTH)419 \n3710 S. McClintock Ave \nLos Angeles, CA 90089</string>
+    <string name="TaWeb">Website</string>
+    <string name="TaWeb1">http://neptune.usc.edu/~pradipta/</string>
+    <string name="TeamInfo">Team 7</string>
+    <string name="Mem1">Divya Katipamula</string>
+    <string name="Mem1a">Masters Student \nElectrical Engineering \nUniversity of Southern California</string>
+    <string name="Mem1b">Email Address: \nkatipamu@usc.edu</string>
+    <string name="Mem2">Nitin Kalavala</string>
+    <string name="Mem2a">Masters Student \nElectrical Engineering \nUniversity of Southern California</string>
+    <string name="Mem2b">Email Address: \nkalavala@usc.edu</string>
+    <string name="TaPic">TaPic</string>
+    <string name="InstPic">InstPic</string>
+</resources>
